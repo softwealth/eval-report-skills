@@ -4,6 +4,12 @@ All notable changes to the EVAL Skills repository will be documented in this fil
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
+## [0.4.0] - 2026-04-14
+
+### Added
+- `skills/agents/coding-agent-selection.md` — AI coding agent selection guide covering 10 agents across 4 architecture patterns (CodeAct, ACI, Plan-and-Execute, ReAct). Includes decision framework, model recommendations, MCP integration, and pitfalls. From EVAL #010.
+- New `agents` category directory
+
 ## [0.1.0] - 2026-03-11
 
 ### Added
